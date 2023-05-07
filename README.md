@@ -1,4 +1,4 @@
-# Who-is-the-Millionaire
+# Who Wants to Be a Millionaire ?
 hust-ict-networkprogramming-capstoneproject
 
 ![](bg1.jpg)

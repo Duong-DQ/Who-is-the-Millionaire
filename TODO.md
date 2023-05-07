@@ -1,11 +1,13 @@
 ## To do lists
+- [x] Init Project @duong
 - Docs:
     - [ ] UC diagram
     - [ ] Class diagram
-    - [ ] Flowchart
+    - [x] Flowchart @duong
     - [ ] Slide mô tả tiến độ công việc
 - Features:
-    - [x] Connect
+    - [x] Connect @duong
     - [ ] Login
+    - [ ] Config message struct @duong
     - [ ] ...
-- [x] Init Project @duong
+- Test: 
