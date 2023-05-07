@@ -1,0 +1,11 @@
+## To do lists
+- Docs:
+    - [ ] UC diagram
+    - [ ] Class diagram
+    - [ ] Flowchart
+    - [ ] Slide mô tả tiến độ công việc
+- Features:
+    - [x] Connect
+    - [ ] Login
+    - [ ] ...
+- [x] Init Project @duong

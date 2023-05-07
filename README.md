@@ -9,7 +9,6 @@ hust-ict-networkprogramming-capstoneproject
 - Hoang Thi Hang
 
 ## Features
-### Server: 
 - Có 2 chế độ chơi:
   + Chơi một mình, cuối phần thi sẽ nhận lại số câu đúng và tiền thưởng tương ứng.
   + Chế độ thách đấu: Cho phép 2 người chơi thi với nhau bằng việc cùng trả lời 1 tập câu hỏi.
@@ -19,15 +18,13 @@ hust-ict-networkprogramming-capstoneproject
   + hỏi khán giả.
 - Tiếp nhận và chuyển lời thách đấu giữa các người chơi.
 - Kết thúc phần thi, chuyển file log chứa thông tin cuộc thi tới 2 người chơi: số câu trả lời đúng, số tiền nhận được.
+### Server:
 ### Client:
-
-## To do lists
 
 ## Installation and Running
 ### Installation
 - VSCode  
 - Ubuntu  
 - gcc 
-### Running
 ## Documentation
 [SDL library in C/C++ with examples](https://www.geeksforgeeks.org/sdl-library-in-c-c-with-examples/)
